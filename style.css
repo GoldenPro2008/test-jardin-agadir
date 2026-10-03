@@ -4,3 +4,17 @@ h1 {
     font-family: Arial, sans-serif;
     text-align: center;
 }
+
+form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+a {
+    color: #ac9999;
+    text-decoration: none;
+    margin-left: 100px;
+}
